@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "臆病な白夜",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-02-14T08:48:52.296082Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "臆病な白夜",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_臆病な白夜_トゲナシトゲアリ.txt"
+    }
+  ]
+}
